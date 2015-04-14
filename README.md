@@ -1,3 +1,3 @@
 # Checking off complexity
 
-Code gets complex fast. This checklist can be used to evaluate code and suggest how it can be made simpler.
+The goal of this project is to produce a checklist to help evaluate code for its complexity and to make it simpler.
